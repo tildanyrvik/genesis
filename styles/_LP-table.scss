@@ -1,0 +1,28 @@
+.heading {
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.services-list {
+    font-family: "Mulish", sans-serif;
+    font-size: 18px;
+    opacity: 60%;
+}
+
+.services {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.services-text {
+    max-width: 40%;
+}
+
+.services-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 60px;
+    max-width: 50%;
+}
