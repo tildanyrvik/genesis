@@ -1,0 +1,42 @@
+.shooting-stars {
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: #4A4FF2;
+}
+
+.heading {
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.product-dsgn {
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: #4A4FF2;
+}
+
+.right-text {
+    font-family: "Mulish", sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    color: black;
+}
+
+.intro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+.intro-left {
+    max-width: 60%;
+}
+
+.intro-right {
+    max-width: 35%;
+}
