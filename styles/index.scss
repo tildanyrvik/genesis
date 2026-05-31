@@ -1,4 +1,6 @@
-@use 'LP-navbar';
-@use 'LP-intro';
-@use 'LP-images';
-@use 'LP-table';
+$font-main: "Mulish", sans-serif;
+
+@import 'LP-navbar';
+@import 'LP-intro';
+@import 'LP-images';
+@import 'LP-table';
