@@ -1,0 +1,5 @@
+@mixin logo($size, $weight) {
+    font-family: "Mulish", sans-serif;
+    font-size: $size;
+    font-weight: $weight;
+}
