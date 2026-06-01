@@ -32,3 +32,17 @@
     font-weight: bold;
     font-size: 18px;
 }
+
+.intro-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.PP-intro {
+    width: 50%;
+}
+
+.project-table {
+    width: 40%;
+}
