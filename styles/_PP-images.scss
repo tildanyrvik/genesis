@@ -1,0 +1,21 @@
+.large-image {
+    width: 100%;
+    height: auto;
+    max-width: 1110px;
+}
+.paragraph {
+    font-family: "Mulish", sans-serif;
+    font-size: 16px;
+    opacity: 80%;
+
+}
+
+.PP-images {
+    display: flex;
+    gap: 20px;
+}
+
+.image-row {
+    width: 33%;
+    height: auto;
+}
