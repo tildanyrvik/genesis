@@ -1,0 +1,37 @@
+.heading {
+    font-family: "Mulish", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.input-box {
+    width: 475px;
+    height: 37px;
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    opacity: 60%;
+    border-top: none;
+    border-left: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #D8D8D8;
+    outline: none;
+}
+
+.button {
+    width: 125px;
+    height: 50px;
+    background-color: #4A4FF2;
+    color: white;
+    font-family: "Mulish", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+}
+
+.map {
+    width: 100%;
+  max-width: 1110px;
+  height: 550px;
+}
