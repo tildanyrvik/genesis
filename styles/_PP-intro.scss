@@ -1,0 +1,34 @@
+.heading {
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.intro {
+    font-family: "Mulish", sans-serif;
+    font-size: 16px;
+    opacity: 80%;
+}
+
+.project-row {
+    display: flex;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #e0e0e0;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.leftside {
+    width: 50%;
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    opacity: 50%;
+}
+
+.rightside {
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
