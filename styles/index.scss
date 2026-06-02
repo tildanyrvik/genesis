@@ -1,5 +1,3 @@
-$font-main: "Mulish", sans-serif;
-
 @import 'variables';
 @import 'LP-navbar';
 @import 'LP-intro';
@@ -13,3 +11,7 @@ $font-main: "Mulish", sans-serif;
 @import 'CP-navbar';
 @import 'CP-content';
 @import 'CP-footer';
+
+body {
+    @include page-margins;
+}
